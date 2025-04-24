@@ -21,8 +21,7 @@ Admins can:
 - **Tools**: PyCharm, DB Browser, GitHub
 ---
 ## 🍔 Features
-- ordering from up to 3 restaurants at once
-- 
+- ordering from multiple restaurants at once
 ### 🍔 Customer
 - Register & Login
 - Order Food (with live total calculation)
@@ -35,12 +34,6 @@ Admins can:
 - Add/update/delete food orders
 - Manage food types
 - View users
----
-## Screenshots
-| User Booking Page | Admin Dashboard |
-|-------------------|------------------|
-| ![Booking](uploads/booking.png) | ![Admin](uploads/admin_dashboard.png) |
-_(Replace with actual screenshots or links if needed)_
 ---
 ## 🍔 How to Run
 1. Clone the repository:
@@ -89,9 +82,8 @@ This project followed the **Software Development Life Cycle (SDLC)**:
 - Maintenance
 ---
 ## 🍔 Author
-- **Name**: [Your Name]
-- **College/Batch**: [Optional]
-- **Date**: [MM/DD/YYYY]
+- **Name**: [Amir Yousef, Marco Aguirre]
+- **Date**: [04/24/2025]
 ---
 ## 🍔 License
 This project is for educational purposes only.
