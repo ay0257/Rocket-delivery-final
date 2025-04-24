@@ -22,6 +22,7 @@ Admins can:
 ---
 ## 🍔 Features
 - ordering from multiple restaurants at once
+- people are able to see other customers food reviews.
 ### 🍔 Customer
 - Register & Login
 - Order Food (with live total calculation)
