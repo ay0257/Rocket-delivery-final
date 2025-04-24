@@ -57,21 +57,6 @@ python app.py
 ```
 5. Visit [http://localhost:5000](http://localhost:5000) in your browser.
 ---
-## Folder Structure
-```
-fuelnow/
-├── app.py
-├── templates/
-│ ├── user/
-│ └── admin/
-├── models/
-├── static/
-├── instance/
-│ └── db.sqlite
-├── requirements.txt
-└── README.md
-```
----
 ## 🍔 Developed With SDLC
 This project followed the **Software Development Life Cycle (SDLC)**:
 - Planning
